@@ -1,4 +1,11 @@
 # Login
+Code coverage
+ =============================== Coverage summary ===============================
+Statements   : 79.17% ( 38/48 )
+Branches     : 75% ( 3/4 )
+Functions    : 60% ( 9/15 )
+Lines        : 77.27% ( 34/44 )
+================================================================================
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
 
